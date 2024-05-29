@@ -22,8 +22,8 @@ This project involved building a blog for issues around modern web development. 
 Use this app to maintain a database of blog posts related to technical issues.
 
 ## License
-    This project is covered under the MIT license. For more information, click the link below.
-    [License Link](https://opensource.org/licenses/MIT)
+This project is covered under the MIT license. For more information, click the link below.
+[License Link](https://opensource.org/licenses/MIT)
 
 ## Contributing
 This project was generated as part of the GWU Full Stack Web Development bootcamp.
